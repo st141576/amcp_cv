@@ -30,6 +30,6 @@
 
 ### 💻 Учебные проекты
 
-#### [Моё CV (Markdown & GitHub Pages)](https://st141576.github.io/amcp-cv/cv)
+#### [Моё CV (Markdown & GitHub Pages)](https://st141576.github.com/amcp-cv/cv.md)
 *   **Описание:** Это резюме, оформленное как Markdown-документ и размещенное на GitHub Pages. Проект демонстрирует понимание работы с Git, ветками, GitHub.
 *   **Технологии:** Git, GitHub Pages.
